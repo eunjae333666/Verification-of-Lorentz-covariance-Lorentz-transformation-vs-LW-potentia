@@ -1,0 +1,18 @@
+
+Starting Core Scaling Benchmark (Grid: 40^3, Charges: 100)...
+  Testing with 1 cores... Done! (654.8202s)
+  Testing with 2 cores... Done! (331.9765s)
+  Testing with 4 cores... Done! (165.5322s)
+  Testing with 8 cores... Done! (88.6189s)
+  Testing with 16 cores... Done! (42.3584s)
+  Testing with 32 cores... Done! (21.9619s)
+  Testing with 64 cores... Done! (12.4764s)
+  Testing with 128 cores... Done! (8.6207s)
+  Testing with 256 cores... Done! (6.7779s)
+
+Starting Grid Scaling Benchmark (Cores: 256, Charges: 100)...
+  Testing Grid Size 20x20x20 (8000 points)... Done! (1.1994s)
+  Testing Grid Size 30x30x30 (27000 points)... Done! (1.2589s)
+  Testing Grid Size 40x40x40 (64000 points)... Done! (1.1891s)
+  Testing Grid Size 50x50x50 (125000 points)... Done! (1.1794s)
+  Testing Grid Size 60x60x60 (216000 points)... Done! (1.2972s)
